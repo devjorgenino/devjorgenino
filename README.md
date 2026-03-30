@@ -14,7 +14,7 @@
 
 <!-- About Me -->
 <div align="center">
-  <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+  <img align="right" width="300" style={margin-top: "80px", margin-left: "10px"} src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 </div>
 
 ### 👨‍💻 About Me
