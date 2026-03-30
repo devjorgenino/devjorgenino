@@ -14,9 +14,9 @@
 
 <!-- About Me -->
 
-### 👨‍💻 About Me
-
 ---
+
+### 👨‍💻 About Me
 
 <div align="center">  
   <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
@@ -28,7 +28,7 @@ const jorge = {
   name: "Jorge Niño",
   role: "Frontend Developer",
   experience: "6+ years",
-  location: "🌍 España",
+  location: "🌍 Venezuela",
   stack: ["React", "Next.js", "TypeScript", "JavaScript"],
   passions: ["AI", "Clean UI", "Lifelong Learning"],
   currentlyLearning: "Something new every day 🚀",
@@ -87,24 +87,6 @@ const jorge = {
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=white)
 
-</div>
-
----
-
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeninodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeninodev&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeninodev&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&border_radius=12" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jorgeninodev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FF6B6B&area=true&area_color=A78BFA" alt="activity graph"/>
 </div>
 
 ---
