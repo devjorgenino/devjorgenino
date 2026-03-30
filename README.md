@@ -1,7 +1,6 @@
 <!-- Header -->
 <div align="center">
-👨‍💻 Jorge Niño
-Frontend Developer · React & Next.js Specialist
+  <img src="./banner.png" width="100%" alt="Jorge Niño - Frontend Developer"/>
 </div>
 <!-- Typing animation -->
 <div align="center">
