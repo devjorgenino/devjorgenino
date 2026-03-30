@@ -1,6 +1,7 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,20&height=220&section=header&text=Jorge%20Ni%C3%B1o&fontSize=70&fontColor=fff&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20%26%20Next.js%20Specialist&descAlignY=58&descSize=20" width="100%" alt="header"/>
+👨‍💻 Jorge Niño
+Frontend Developer · React & Next.js Specialist
 </div>
 <!-- Typing animation -->
 <div align="center">
