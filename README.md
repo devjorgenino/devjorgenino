@@ -1,44 +1,14 @@
-<!-- Animated SVG header -->
+<!-- Header -->
 <div align="center">
-<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#24243e"/>
-    </linearGradient>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&amp;family=Inter:wght@400&amp;display=swap');
-      .title { font-family: 'Fira Code', monospace; font-size: 58px; fill: #ffffff; font-weight: 700; }
-      .subtitle { font-family: 'Inter', sans-serif; font-size: 18px; fill: #A78BFA; font-weight: 400; }
-      .title { animation: fadeIn 1.2s ease forwards; opacity: 0; }
-      .subtitle { animation: fadeIn 1.8s ease forwards; opacity: 0; }
-      @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
-    </style>
-  </defs>
-  <rect width="900" height="200" fill="url(#bgGrad)" rx="0"/>
-  <!-- Wave bottom -->
-  <path d="M0,160 C150,200 300,120 450,160 C600,200 750,130 900,160 L900,200 L0,200 Z" fill="#0D1117" opacity="0.6"/>
-  <path d="M0,175 C200,150 400,195 600,170 C750,150 850,180 900,175 L900,200 L0,200 Z" fill="#0D1117"/>
-  <!-- Decorative dots -->
-  <circle cx="60" cy="40" r="3" fill="#A78BFA" opacity="0.5"/>
-  <circle cx="840" cy="50" r="4" fill="#A78BFA" opacity="0.4"/>
-  <circle cx="790" cy="30" r="2" fill="#ffffff" opacity="0.3"/>
-  <circle cx="110" cy="70" r="2" fill="#ffffff" opacity="0.25"/>
-  <text x="450" y="100" text-anchor="middle" class="title">Jorge Niño</text>
-  <text x="450" y="138" text-anchor="middle" class="subtitle">Frontend Developer · React &amp; Next.js Specialist</text>
-</svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,20&height=220&section=header&text=Jorge%20Ni%C3%B1o&fontSize=70&fontColor=fff&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20%26%20Next.js%20Specialist&descAlignY=58&descSize=20" width="100%" alt="header"/>
 </div>
-
 <!-- Typing animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=6%2B+years+crafting+frontend+magic+%E2%9C%A8;React+%26+Next.js+enthusiast+%F0%9F%9A%80;AI+lover+%26+lifelong+learner+%F0%9F%A4%96;Building+the+web%2C+one+component+at+a+time+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </div>
-
 <br/>
-
 <!-- About Me -->
 <div align="center">
   <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
