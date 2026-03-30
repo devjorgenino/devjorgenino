@@ -14,17 +14,20 @@
 
 <!-- About Me -->
 <div align="center">
-  <img align="right" width="300" style={{margin-top: "80px", margin-left: "10px"}} src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+  <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 </div>
 
 ### 👨‍💻 About Me
 
+<table>
+<tr>
+<td valign="middle" width="65%">
 ```typescript
 const jorge = {
   name: "Jorge Niño",
   role: "Frontend Developer",
   experience: "6+ years",
-  location: "🌍 Venezuela",
+  location: "🌍 España",
   stack: ["React", "Next.js", "TypeScript", "JavaScript"],
   passions: ["AI", "Clean UI", "Lifelong Learning"],
   currentlyLearning: "Something new every day 🚀",
@@ -32,12 +35,17 @@ const jorge = {
 };
 ```
 
-- 🎨 Specialized in crafting **fast, beautiful, and scalable** web experiences
-- 🤖 Passionate about integrating **AI** into modern development workflows
-- ⚡ Lover of clean code, great UX and pixel-perfect interfaces
-- 📚 Committed to **learning something new every single day**
+🎨 Specialized in crafting fast, beautiful, and scalable web experiences
+🤖 Passionate about integrating AI into modern development workflows
+⚡ Lover of clean code, great UX and pixel-perfect interfaces
+📚 Committed to learning something new every single day
 
-<br clear="right"/>
+</td>
+<td valign="middle" align="center" width="35%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
