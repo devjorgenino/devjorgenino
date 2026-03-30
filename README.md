@@ -2,13 +2,16 @@
 <div align="center">
   <img src="./banner.png" width="100%" alt="Jorge Niño - Frontend Developer"/>
 </div>
+
 <!-- Typing animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=6%2B+years+crafting+frontend+magic+%E2%9C%A8;React+%26+Next.js+enthusiast+%F0%9F%9A%80;AI+lover+%26+lifelong+learner+%F0%9F%A4%96;Building+the+web%2C+one+component+at+a+time+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </div>
+
 <br/>
+
 <!-- About Me -->
 <div align="center">
   <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
@@ -85,6 +88,24 @@ const jorge = {
 
 ---
 
+<!-- GitHub Stats -->
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeninodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeninodev&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeninodev&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&border_radius=12" alt="streak stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jorgeninodev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FF6B6B&area=true&area_color=A78BFA" alt="activity graph"/>
+</div>
+
+---
+
 <!-- Connect -->
 ### 🌐 Let's Connect!
 
@@ -97,17 +118,9 @@ const jorge = {
 
 <br/>
 
-<!-- Footer wave -->
-
 <div align="center">
-<svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#24243e"/>
-    </linearGradient>
-  </defs>
-  <path d="M0,40 C150,0 300,80 450,40 C600,0 750,70 900,40 L900,120 L0,120 Z" fill="url(#footerGrad)"/>
-</svg>
+
+---
+*✨ Thanks for visiting my profile!*
+
 </div>
