@@ -1,6 +1,33 @@
-<!-- Animated wave header -->
+<!-- Animated SVG header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jorge%20Niño&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20•%20React%20%26%20Next.js%20Specialist&descAlignY=58&descSize=20&animation=fadeIn" />
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&amp;family=Inter:wght@400&amp;display=swap');
+      .title { font-family: 'Fira Code', monospace; font-size: 58px; fill: #ffffff; font-weight: 700; }
+      .subtitle { font-family: 'Inter', sans-serif; font-size: 18px; fill: #A78BFA; font-weight: 400; }
+      .title { animation: fadeIn 1.2s ease forwards; opacity: 0; }
+      .subtitle { animation: fadeIn 1.8s ease forwards; opacity: 0; }
+      @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+  <rect width="900" height="200" fill="url(#bgGrad)" rx="0"/>
+  <!-- Wave bottom -->
+  <path d="M0,160 C150,200 300,120 450,160 C600,200 750,130 900,160 L900,200 L0,200 Z" fill="#0D1117" opacity="0.6"/>
+  <path d="M0,175 C200,150 400,195 600,170 C750,150 850,180 900,175 L900,200 L0,200 Z" fill="#0D1117"/>
+  <!-- Decorative dots -->
+  <circle cx="60" cy="40" r="3" fill="#A78BFA" opacity="0.5"/>
+  <circle cx="840" cy="50" r="4" fill="#A78BFA" opacity="0.4"/>
+  <circle cx="790" cy="30" r="2" fill="#ffffff" opacity="0.3"/>
+  <circle cx="110" cy="70" r="2" fill="#ffffff" opacity="0.25"/>
+  <text x="450" y="100" text-anchor="middle" class="title">Jorge Niño</text>
+  <text x="450" y="138" text-anchor="middle" class="subtitle">Frontend Developer · React &amp; Next.js Specialist</text>
+</svg>
 </div>
 
 <!-- Typing animation -->
@@ -24,7 +51,7 @@ const jorge = {
   name: "Jorge Niño",
   role: "Frontend Developer",
   experience: "6+ years",
-  location: "🌍 España",
+  location: "🌍 Venezuela",
   stack: ["React", "Next.js", "TypeScript", "JavaScript"],
   passions: ["AI", "Clean UI", "Lifelong Learning"],
   currentlyLearning: "Something new every day 🚀",
@@ -82,25 +109,8 @@ const jorge = {
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=white)
 
-</div>
-
----
-
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeninodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeninodev&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeninodev&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&border_radius=12" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jorgeninodev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FF6B6B&area=true&area_color=A78BFA" alt="activity graph"/>
 </div>
 
 ---
@@ -111,19 +121,23 @@ const jorge = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorgeninodev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jorgeninodev.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jorgeninodev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgenino.dev@gmail.com)
 
 </div>
 
 <br/>
 
 <!-- Footer wave -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jorgeninodev&label=Profile%20Views&color=A78BFA&style=for-the-badge" alt="profile views" />
-</div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" />
+<svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,40 C150,0 300,80 450,40 C600,0 750,70 900,40 L900,120 L0,120 Z" fill="url(#footerGrad)"/>
+</svg>
 </div>
