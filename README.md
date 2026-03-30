@@ -16,7 +16,13 @@
 
 ### 👨‍💻 About Me
 
-<div align="center">
+---
+
+<div align="center">  
+  <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+</div>
+
+
 ```typescript
 const jorge = {
   name: "Jorge Niño",
@@ -37,14 +43,7 @@ const jorge = {
 
 <br clear="right"/>
 
-  
-  <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
-</div>
-
 ---
-
----
-
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack & Tools
 
