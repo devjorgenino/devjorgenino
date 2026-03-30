@@ -16,10 +16,8 @@
 
 ### 👨‍💻 About Me
 
-<table>
-<tr>
-<td valign="middle" width="65%">
-
+<div align="center">
+```typescript
 const jorge = {
   name: "Jorge Niño",
   role: "Frontend Developer",
@@ -30,18 +28,20 @@ const jorge = {
   currentlyLearning: "Something new every day 🚀",
   funFact: "I automate everything I can with AI 🤖"
 };
+```
 
-🎨 Specialized in crafting fast, beautiful, and scalable web experiences
-🤖 Passionate about integrating AI into modern development workflows
-⚡ Lover of clean code, great UX and pixel-perfect interfaces
-📚 Committed to learning something new every single day
+- 🎨 Specialized in crafting **fast, beautiful, and scalable** web experiences
+- 🤖 Passionate about integrating **AI** into modern development workflows
+- ⚡ Lover of clean code, great UX and pixel-perfect interfaces
+- 📚 Committed to **learning something new every single day**
 
-</td>
-<td valign="middle" align="center" width="35%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
+
+  
+  <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+</div>
+
+---
 
 ---
 
