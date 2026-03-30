@@ -19,7 +19,7 @@
 <table>
 <tr>
 <td valign="middle" width="65%">
-```typescript
+
 const jorge = {
   name: "Jorge Niño",
   role: "Frontend Developer",
@@ -30,7 +30,6 @@ const jorge = {
   currentlyLearning: "Something new every day 🚀",
   funFact: "I automate everything I can with AI 🤖"
 };
-```
 
 🎨 Specialized in crafting fast, beautiful, and scalable web experiences
 🤖 Passionate about integrating AI into modern development workflows
